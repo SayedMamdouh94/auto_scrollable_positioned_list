@@ -1,0 +1,26 @@
+name: auto_scroll_positioned_list
+description: Continuous auto-scroll controller + widget wrapper for scrollable_positioned_list, with pause-on-drag and speed control.
+version: 0.0.1
+repository: https://github.com/SayedMamdouh94/auto_scrollable_positioned_list.git
+issue_tracker: https://github.com/SayedMamdouh94/auto_scrollable_positioned_list/issues
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  scrollable_positioned_list: ^0.3.8
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+topics:
+  - scroll
+  - listview
+  - autoscroll
+  - flutter
+  - animation
